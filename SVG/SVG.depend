@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1597261108 source:c:\users\hammou\desktop\aimen\pdf\c\svg\main.c
+	<stdio.h>
+	<stdlib.h>
+	"svg.h"
+
+1597260129 c:\users\hammou\desktop\aimen\pdf\c\svg\svg.h
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+
+1597260745 source:c:\users\hammou\desktop\aimen\pdf\c\svg\svg.c
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"svg.h"
+
